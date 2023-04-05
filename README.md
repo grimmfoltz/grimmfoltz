@@ -5,8 +5,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 💼 &nbsp; Procurando oportunidades</a>
-- 🌱 &nbsp; Aprendendo mais sobre Python, JavaScript, HTML e CSS.
+- 💼 &nbsp; Full Stack Developer Junior na AT Group</a>
+- 🌱 &nbsp; Aprendendo mais sobre Python, Django, JavaScript, HTML e CSS.
 
 <h3> :🚀: &nbsp;Minhas Skills </h3>
 
@@ -33,8 +33,8 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  <!--![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  <!--![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)-->
 
 **Ferramentas de Desenvolvimento**
