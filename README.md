@@ -50,8 +50,10 @@
 <a href="https://github.com/grimmfoltz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grimmfoltz&theme=dracula&show_icons=true" /> 
 </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimmfoltz)](https://github.com/grimmfoltz/github-readme-stats)
 <br/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimmfoltz)](https://github.com/grimmfoltz/github-readme-stats)
+
 
 <h3> :🌎: &nbsp;Onde me encontrar: </h3> 
 
